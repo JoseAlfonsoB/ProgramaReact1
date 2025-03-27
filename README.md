@@ -1,5 +1,10 @@
 # React + Vite
 
+## PASOS PARA LIMPIAR EL PROYECTO
+- Eliminar la carpeta de -""
+- Borrar el codigo de index.css
+- Borrar el contenido de App.jsx y  escribir el nuevo codigo
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
